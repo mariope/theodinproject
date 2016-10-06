@@ -14,6 +14,15 @@ If you want to get the code, you can try this:
 $ git clone https://github.com/mariope/theodinproject
 ```
 
+## Curriculum
+
+From The Odin Project's [Courses](http://www.theodinproject.com/courses)
+
+### Web Development 101
+
+From The Odin Project's [Web Development 101](http://www.theodinproject.com/web-development-101/html-css)
+* google-homepage: demonstrate HTML and CSS fundamentals.
+
 ## Built With
 
 * Ruby v2.3.0

@@ -1,0 +1,43 @@
+/* generic */
+html, body {
+ font-family: arial, sans-serif;  
+ font-size:14px;
+}
+
+/* header */
+header {
+	width: 100%;
+	height: 20px;
+	padding: 2px;
+	text-align: right;
+}
+header li {
+	list-style-type: none;
+	display: inline-block;
+	float: right;
+	padding-right: 20px;
+}
+
+/* main */
+main {
+	
+}
+
+/* footer */
+footer {
+	height: 38px;
+	width: 100%;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	background-color: #f2f2f2;
+	border: solid 1px #dcdcdc;
+	text-align: right;
+}
+footer li {
+	list-style-type: none;
+	display: inline-block;
+	margin-top: 0;
+	margin-right: 26px;
+	padding: 0;
+}
